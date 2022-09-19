@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/paulabsilva.lwcatividade2-fork-l896kw1i",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve cGJXM2mJFjMgaWJ6D1LQ --open"
+  }
+}
